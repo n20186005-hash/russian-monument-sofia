@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "The Russian Monument in Sofia – Sofia, Bulgaria",
+    "description": "Complete travel guide to The Russian Monument in Sofia. Learn about this historic landmark, including location, history, and visitor information."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "The Russian Monument in Sofia",
+    "subtitle": "Historic Landmark · Sofia, Bulgaria",
+    "rating": "4.4",
+    "reviewCount": "7,207 reviews",
+    "type": "Monument",
+    "openMaps": "View on Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/ttYioBqpBgQfTTFy8"
+  },
+  "intro": {
+    "title": "Discover The Russian Monument in Sofia",
+    "description": "The Russian Monument in Sofia is a historic landmark located in the center of the Bulgarian capital. Built to commemorate the Russian soldiers who liberated Bulgaria from Ottoman rule in 1878, it stands as a symbol of Bulgarian-Russian friendship and gratitude.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "The monument is accessible 24/7 as it's an outdoor landmark.",
+        "Best time to visit is during daylight hours for photos.",
+        "Located in a busy intersection, be careful when crossing streets.",
+        "Combine your visit with nearby attractions like St. Sofia Church."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Historic 19th century monument",
+        "Symbol of Bulgarian liberation",
+        "Central location in Sofia",
+        "Beautiful sculptural details"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About The Russian Monument",
+    "sections": [
+      {
+        "id": "history",
+        "title": "History & Significance",
+        "content": "The Russian Monument was unveiled in 1882 to honor the Russian volunteers who died during the Russo-Turkish War (1877-1878). The war resulted in the liberation of Bulgaria from nearly five centuries of Ottoman rule. The monument was designed by Italian sculptor Arnoldo Zocchi."
+      },
+      {
+        "id": "architecture",
+        "title": "Architecture & Design",
+        "content": "The monument features a tall obelisk crowned with a bronze double-headed eagle, the emblem of the Russian Empire. The base is decorated with sculptural reliefs depicting scenes from the liberation war. The design combines elements of Russian and Bulgarian decorative traditions."
+      },
+      {
+        "id": "location",
+        "title": "Location & Surroundings",
+        "content": "The monument is situated at the intersection of Makedonia Boulevard and Evlogi Georgiev Boulevard in Sofia Center. The location, known as Ploshtad \"Ruski Pametnik\" (Russian Monument Square), is a major traffic junction and public space in the city."
+      },
+      {
+        "id": "preservation",
+        "title": "Preservation & Status",
+        "content": "The Russian Monument is protected as a cultural heritage site by the Bulgarian government. Over the years, it has undergone several restorations to preserve its historical and artistic value. It remains one of Sofia's most recognizable landmarks."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "Where is The Russian Monument located?",
+        "answer": "The monument is located at pl. \"Ruski pametnik\", blvd. \"Makedonia\" 51, 1606 Sofia, Bulgaria. The location is well-served by public transport."
+      },
+      {
+        "question": "Is there an entrance fee?",
+        "answer": "No, the monument is an outdoor public landmark that can be viewed free of charge at any time."
+      },
+      {
+        "question": "What are the visiting hours?",
+        "answer": "As an outdoor monument, it is accessible 24 hours a day, 7 days a week. However, daytime visits are recommended for the best experience and safety."
+      },
+      {
+        "question": "How do I get to the monument?",
+        "answer": "The monument is accessible by public transport (buses, trolleys) and metro. The nearest metro station is approximately a 10-15 minute walk away. Taxis and ride-sharing services are also readily available in Sofia."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "The Russian Monument (Руски паметник)",
+    "type": "Attraction Type",
+    "typeValue": "Historic Monument",
+    "country": "Country",
+    "countryValue": "Bulgaria",
+    "city": "City",
+    "cityValue": "Sofia",
+    "googleRating": "Google Rating",
+    "googleRatingValue": "4.4 (7,207)",
+    "address": "Address",
+    "addressValue": "pl. \"Ruski pametnik\", blvd. \"Makedonia\" 51, 1606 Sofia, Bulgaria",
+    "telephone": "Contact Phone",
+    "telephoneValue": "+359 2 937 1111 (Sofia City Hall)",
+    "accessibility": "Accessibility",
+    "accessibilityValue": "Partially accessible",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "M8R6+W5 Sofia, Bulgaria"
+  },
+  "hours": {
+    "title": "Visiting Information",
+    "park": "Access",
+    "parkTime": "Open 24/7 (outdoor monument)",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Spring: Pleasant weather, comfortable for walking",
+    "bestTimeSummer": "Summer: Warm days, best visited in morning or evening",
+    "bestTimeAutumn": "Autumn: Mild temperatures, beautiful city views",
+    "bestTimeWinter": "Winter: Snow can create beautiful scenery",
+    "tip": "Daytime visits recommended for safety and the best photos."
+  },
+  "tickets": {
+    "title": "Admission Information",
+    "park": "Monument Access",
+    "parkPrice": "Free - outdoor public monument",
+    "parking": "Parking",
+    "parkingPrice": "Street parking available nearby (paid zones)",
+    "guided": "Guided Tours",
+    "guidedPrice": "Available through Sofia Tourist Information Center"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromCenter": "From Sofia Center",
+    "fromCenterDesc": "The monument is located in Sofia Center, easily walkable from city center (15-20 min).",
+    "fromStation": "By Public Transport",
+    "fromStationDesc": "Multiple bus and trolley lines stop near the monument.",
+    "fromAirport": "From Sofia Airport",
+    "fromAirportDesc": "Take the metro (Line 1 or 2) to Serdika Station, then transfer to bus/trolley or walk.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Bus lines 72, 76, 204 and trolleys 5, 8 stop nearby.",
+    "walking": "Walking",
+    "walkingDesc": "20-25 minutes from Alexander Nevsky Cathedral.",
+    "driving": "Driving",
+    "drivingDesc": "Located on Makedonia Boulevard, a major thoroughfare in Sofia."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "Explore the Russian Monument and nearby attractions in Sofia.",
+    "steps": [
+      "Start at the Russian Monument",
+      "Walk to St. Sofia Church (10 min)",
+      "Visit the Alexander Nevsky Cathedral (15 min)",
+      "Explore the National Archaeological Museum (20 min)",
+      "End at Vitosha Boulevard for shopping/dining"
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "The Russian Monument in Sofia",
+    "captions": [
+      "The Russian Monument overview",
+      "Monument base with sculptures",
+      "Bronze eagle detail",
+      "Monument in daylight",
+      "Surrounding square view",
+      "Historical plaque",
+      "Monument at sunset",
+      "Sculptural reliefs detail",
+      "The monument and cityscape"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Reviews can be viewed via Google Maps.",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Maria P.",
+        "rating": 5,
+        "date": "2026-03-15",
+        "text": "A beautiful historic monument in the heart of Sofia. Great place to learn about Bulgarian history."
+      },
+      {
+        "name": "Ivan S.",
+        "rating": 5,
+        "date": "2026-02-28",
+        "text": "Impressive monument with deep historical significance. A must-see when in Sofia."
+      },
+      {
+        "name": "Elena K.",
+        "rating": 4,
+        "date": "2026-01-20",
+        "text": "Nice landmark, though the traffic around it is quite busy. Good for a quick stop and photos."
+      },
+      {
+        "name": "Georgi T.",
+        "rating": 5,
+        "date": "2025-12-10",
+        "text": "An important piece of our history. The monument is well-preserved and beautifully situated."
+      },
+      {
+        "name": "Nikolay V.",
+        "rating": 4,
+        "date": "2025-11-05",
+        "text": "Historic and symbolic. The area is busy but the monument itself is worth seeing."
+      },
+      {
+        "name": "Anna D.",
+        "rating": 5,
+        "date": "2025-10-18",
+        "text": "Love the architecture and the history behind it. A peaceful spot in the middle of the city."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "M8R6+W5 Sofia, Bulgaria",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "brandName": "The Russian Monument in Sofia",
+    "brandSubtitle": "Historic Landmark · Sofia, Bulgaria",
+    "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources & Information",
+    "officialLinks": {
+      "sofiaCity": "Sofia City Government",
+      "sofiaTourism": "Sofia Tourism Board",
+      "tourismMinistry": "Ministry of Tourism",
+      "cultureMinistry": "Ministry of Culture",
+      "heritageInstitute": "National Institute of Immovable Cultural Heritage",
+      "mfa": "Ministry of Foreign Affairs - Consular Services"
+    },
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+  },
+  "officialManagement": {
+    "title": "About The Russian Monument",
+    "text": "The Russian Monument is a protected cultural heritage site managed under the auspices of the Bulgarian Ministry of Culture."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "Information Collection",
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+      },
+      {
+        "heading": "Use of Cookies",
+        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+      },
+      {
+        "heading": "Data Security and Protection",
+        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to third-party commercial organizations."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "Website Content and Use",
+        "content": "This website provides travel, transport, and historical information about The Russian Monument in Sofia. All content is for reference only. Actual information may change at any time; please refer to official announcements."
+      },
+      {
+        "heading": "Intellectual Property",
+        "content": "The text, images, and designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial purposes."
+      },
+      {
+        "heading": "Disclaimer",
+        "content": "We strive to ensure the accuracy and timeliness of the information, but we do not assume legal responsibility for losses caused directly or indirectly by using the information provided on this website."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Necessary for basic website functionality and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "description": "Help us understand visitor behavior and improve the website."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Used for cross-site tracking and delivering personalized ads."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences Saved!"
+  }
+}

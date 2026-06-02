@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "索菲亚俄罗斯纪念碑 (The Russian Monument in Sofia) – 保加利亚索菲亚",
+    "description": "索菲亚俄罗斯纪念碑完整旅游指南。了解这个历史地标，包括位置、历史和游览信息。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "索菲亚俄罗斯纪念碑",
+    "subtitle": "历史地标 · 保加利亚索菲亚",
+    "rating": "4.4",
+    "reviewCount": "7,207 条评价",
+    "type": "纪念碑",
+    "openMaps": "在Google地图上查看位置",
+    "mapsLink": "https://maps.app.goo.gl/ttYioBqpBgQfTTFy8"
+  },
+  "intro": {
+    "title": "探索索菲亚俄罗斯纪念碑",
+    "description": "索菲亚俄罗斯纪念碑是位于保加利亚首都中心的历史地标。建于1882年，用于纪念在1877-1878年俄土战争中牺牲的俄国士兵，这场战争使保加利亚摆脱了奥斯曼帝国近五个世纪的统治。该纪念碑是保俄友谊和感激之情的象征。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "纪念碑是户外地标，24小时均可参观。",
+        "最佳拍照时间是白天。",
+        "位于繁忙的十字路口，过马路时请注意安全。",
+        "可结合参观附近的圣索菲亚教堂等景点。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "亮点",
+      "items": [
+        "19世纪历史纪念碑",
+        "保加利亚解放的象征",
+        "索菲亚中心位置",
+        "精美的雕塑细节"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于俄罗斯纪念碑",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史与意义",
+        "content": "俄罗斯纪念碑于1882年落成，用于纪念在俄土战争（1877-1878年）中牺牲的俄国志愿者。这场战争使保加利亚摆脱了奥斯曼帝国近五个世纪的统治。该纪念碑由意大利雕塑家阿诺尔多·佐基设计。"
+      },
+      {
+        "id": "architecture",
+        "title": "建筑与设计",
+        "content": "纪念碑 features 一座高耸的方尖碑，顶部装饰有双头鹰青铜雕像——俄罗斯帝国的徽章。基座装饰有描绘解放战争场景的雕塑浮雕。设计融合了俄罗斯和保加利亚的装饰传统元素。"
+      },
+      {
+        "id": "location",
+        "title": "位置与周边",
+        "content": "纪念碑位于索菲亚中心区马其顿大道和埃夫洛吉·格奥尔基耶夫大道的交汇处。该位置被称为\"俄罗斯纪念碑广场\"（Ploshtad \"Ruski Pametnik\"），是城市的主要交通路口和公共空间。"
+      },
+      {
+        "id": "preservation",
+        "title": "保护与地位",
+        "content": "俄罗斯纪念碑作为文化遗产受到保加利亚政府的保护。多年来，它经历了多次修复，以保存其历史和艺术价值。它仍然是索菲亚最具辨识度的地标之一。"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题解答",
+    "items": [
+      {
+        "question": "俄罗斯纪念碑位于哪里？",
+        "answer": "纪念碑位于保加利亚索菲亚1606，马其顿大道51号，\"俄罗斯纪念碑广场\"。该位置公共交通便利。"
+      },
+      {
+        "question": "需要门票吗？",
+        "answer": "不需要，纪念碑是户外公共地标，随时可以免费参观。"
+      },
+      {
+        "question": "开放时间是什么？",
+        "answer": "作为户外纪念碑，它每天24小时、每周7天均可参观。但建议白天参观，以获得最佳体验并确保安全。"
+      },
+      {
+        "question": "如何到达纪念碑？",
+        "answer": "纪念碑可通过公共交通（公交车、无轨电车）和地铁到达。最近地铁站步行约10-15分钟。索菲亚也很容易叫到出租车和网约车。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "俄罗斯纪念碑 (Руски паметник)",
+    "type": "景点类型",
+    "typeValue": "历史纪念碑",
+    "country": "国家",
+    "countryValue": "保加利亚 (Bulgaria)",
+    "city": "城市",
+    "cityValue": "索菲亚 (Sofia)",
+    "googleRating": "谷歌评分",
+    "googleRatingValue": "4.4 (7,207)",
+    "address": "地址",
+    "addressValue": "пл. \"Руски паметник\", бул. \"Македония\" 51, 1606 София, България",
+    "telephone": "联系电话",
+    "telephoneValue": "+359 2 937 1111 (索菲亚市政厅)",
+    "accessibility": "无障碍设施",
+    "accessibilityValue": "部分区域可通行",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "M8R6+W5 索菲亚, 保加利亚"
+  },
+  "hours": {
+    "title": "参观信息",
+    "park": "参观时间",
+    "parkTime": "24小时开放（户外纪念碑）",
+    "bestTime": "最佳参观时间",
+    "bestTimeSpring": "春季：天气宜人，适合散步",
+    "bestTimeSummer": "夏季：天气温暖，建议早晨或傍晚参观",
+    "bestTimeAutumn": "秋季：温度适中，城市景观美丽",
+    "bestTimeWinter": "冬季：雪景可以创造美丽的风景",
+    "tip": "建议白天参观，以确保安全并获得最佳拍照效果。"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "park": "纪念碑参观",
+    "parkPrice": "免费 - 户外公共纪念碑",
+    "parking": "停车信息",
+    "parkingPrice": "附近有路边停车（付费区域）",
+    "guided": "导游服务",
+    "guidedPrice": "可通过索菲亚旅游信息中心安排"
+  },
+  "transport": {
+    "title": "交通指南",
+    "fromCenter": "从索菲亚市中心",
+    "fromCenterDesc": "纪念碑位于索菲亚中心区，从市中心步行约15-20分钟。",
+    "fromStation": "公共交通",
+    "fromStationDesc": "多条公交和无轨电车线路在纪念碑附近停靠。",
+    "fromAirport": "从索菲亚机场",
+    "fromAirportDesc": "乘坐地铁（1号线或2号线）到谢尔迪卡站，然后转乘公交/无轨电车或步行。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "72、76、204路公交和5、8路无轨电车在附近停靠。",
+    "walking": "步行",
+    "walkingDesc": "从亚历山大·涅夫斯基大教堂步行20-25分钟。",
+    "driving": "自驾",
+    "drivingDesc": "位于马其顿大道，索菲亚的主要干道。"
+  },
+  "route": {
+    "title": "推荐游览路线",
+    "overview": "探索俄罗斯纪念碑和索菲亚附近的景点。",
+    "steps": [
+      "从俄罗斯纪念碑开始",
+      "步行至圣索菲亚教堂（10分钟）",
+      "参观亚历山大·涅夫斯基大教堂（15分钟）",
+      "探索国家考古博物馆（20分钟）",
+      "在维特沙大道结束行程，购物或用餐"
+    ]
+  },
+  "gallery": {
+    "title": "照片画廊",
+    "subtitle": "索菲亚俄罗斯纪念碑",
+    "captions": [
+      "俄罗斯纪念碑全景",
+      "纪念碑基座和雕塑",
+      "青铜鹰细节",
+      "白天的纪念碑",
+      "周围广场景观",
+      "历史铭牌",
+      "日落时的纪念碑",
+      "雕塑浮雕细节",
+      "纪念碑和城市景观"
+    ],
+    "viewAll": "在Google地图上查看位置",
+    "showAll": "显示完整照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可通过Google地图查看。",
+    "moreReviews": "在Google地图上查看更多评价",
+    "items": [
+      {
+        "name": "玛丽亚 P.",
+        "rating": 5,
+        "date": "2026-03-15",
+        "text": "位于索菲亚市中心的一座美丽历史纪念碑。了解保加利亚历史的好地方。"
+      },
+      {
+        "name": "伊万 S.",
+        "rating": 5,
+        "date": "2026-02-28",
+        "text": "令人印象深刻的纪念碑，具有深远的历史意义。索菲亚必看景点。"
+      },
+      {
+        "name": "埃琳娜 K.",
+        "rating": 4,
+        "date": "2026-01-20",
+        "text": "不错的地标，虽然周围的交通相当繁忙。适合快速停留和拍照。"
+      },
+      {
+        "name": "格奥尔基 T.",
+        "rating": 5,
+        "date": "2025-12-10",
+        "text": "我们历史的重要一环。纪念碑保存完好，位置优美。"
+      },
+      {
+        "name": "尼古拉 V.",
+        "rating": 4,
+        "date": "2025-11-05",
+        "text": "具有历史性和象征意义。该区域很繁忙，但纪念碑本身值得一看。"
+      },
+      {
+        "name": "安娜 D.",
+        "rating": 5,
+        "date": "2025-10-18",
+        "text": "喜欢背后的建筑和历史。城市中心的一个宁静之地。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "M8R6+W5 索菲亚, 保加利亚",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "footer": {
+    "brandName": "索菲亚俄罗斯纪念碑",
+    "brandSubtitle": "历史地标 · 保加利亚索菲亚",
+    "rights": "© 2026 独立旅游研究项目 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "官方资源与资讯",
+    "officialLinks": {
+      "sofiaCity": "索菲亚市政府",
+      "sofiaTourism": "索菲亚市旅游局",
+      "tourismMinistry": "保加利亚共和国旅游部",
+      "cultureMinistry": "保加利亚文化部",
+      "heritageInstitute": "保加利亚文化遗产研究所",
+      "mfa": "保加利亚共和国外交部领事服务局"
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "officialManagement": {
+    "title": "关于俄罗斯纪念碑",
+    "text": "俄罗斯纪念碑是受保护的文化遗产，由保加利亚文化部管理。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "信息收集",
+        "content": "当您访问我们的网站时，我们可能会自动收集有关您的设备、浏览器和浏览行为的基本信息，以提供更好的用户体验。此信息不包含您的个人身份。"
+      },
+      {
+        "heading": "Cookie的使用",
+        "content": "我们使用cookie来分析网站流量并优化页面内容。您可以随时通过网站底部的\"Cookie设置\"选项管理您的偏好。"
+      },
+      {
+        "heading": "数据安全与保护",
+        "content": "我们致力于保护您的隐私数据安全，不会将您的浏览数据出售、出租或交易给第三方商业组织。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "网站内容与使用",
+        "content": "本网站提供有关索菲亚俄罗斯纪念碑的旅游、交通和历史信息。所有内容仅供参考。实际信息可能随时更改；请参考官方公告。"
+      },
+      {
+        "heading": "知识产权",
+        "content": "本网站上的文本、图像和设计受版权保护。未经明确书面许可，任何人不得将网站内容用于商业目的。"
+      },
+      {
+        "heading": "免责声明",
+        "content": "我们努力确保信息的准确性和及时性，但对于因使用本网站提供的信息而直接或间接导致的损失，我们不承担法律责任。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的 Cookie 偏好。",
+    "essential": {
+      "title": "必要的 Cookie",
+      "description": "基本网站功能所必需的，无法禁用。",
+      "badge": "始终开启"
+    },
+    "analytics": {
+      "title": "分析",
+      "description": "帮助我们了解访问者行为并改进网站。"
+    },
+    "marketing": {
+      "title": "营销",
+      "description": "用于跨站跟踪和提供个性化广告。"
+    },
+    "save": "保存偏好",
+    "saved": "偏好已保存！"
+  }
+}
