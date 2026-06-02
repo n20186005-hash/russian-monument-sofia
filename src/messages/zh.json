@@ -101,8 +101,6 @@
     "googleRatingValue": "4.4 (7,207)",
     "address": "地址",
     "addressValue": "пл. \"Руски паметник\", бул. \"Македония\" 51, 1606 София, България",
-    "telephone": "联系电话",
-    "telephoneValue": "+359 2 937 1111 (索菲亚市政厅)",
     "accessibility": "无障碍设施",
     "accessibilityValue": "部分区域可通行",
     "plusCode": "Plus Code",
@@ -126,7 +124,7 @@
     "parking": "停车信息",
     "parkingPrice": "附近有路边停车（付费区域）",
     "guided": "导游服务",
-    "guidedPrice": "可通过索菲亚旅游信息中心安排"
+    "guidedPrice": "无向导讲解，宾客可自行游览、自由参观。"
   },
   "transport": {
     "title": "交通指南",
@@ -168,7 +166,7 @@
       "雕塑浮雕细节",
       "纪念碑和城市景观"
     ],
-    "viewAll": "在Google地图上查看位置",
+    "viewAll": "在Google地图上查看更多照片",
     "showAll": "显示完整照片",
     "showLess": "收起照片"
   },

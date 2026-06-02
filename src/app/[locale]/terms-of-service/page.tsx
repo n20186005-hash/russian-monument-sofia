@@ -8,7 +8,7 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://russian-monument-sofia.com';
+  const baseUrl = 'https://russianmonumentsofia.com';
   const bgUrl = `${baseUrl}/bg/terms-of-service`;
   const enUrl = `${baseUrl}/en/terms-of-service`;
   const zhUrl = `${baseUrl}/zh/terms-of-service`;

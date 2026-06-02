@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://russian-monument-sofia.com/sitemap.xml',
+    sitemap: 'https://russianmonumentsofia.com/sitemap.xml',
   };
 }

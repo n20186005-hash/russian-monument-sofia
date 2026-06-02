@@ -1,7 +1,29 @@
 russian-monument-sofia
 
-我们网站是
-XXXXXXXXXX
+
+
+
+1、删除
+联系电话
+
++359 2 937 1111 (索菲亚市政厅)
+2、门票信息修改
+不提供导游服务我们是科普网站不是拉皮条的
+修改
+导游服务
+
+可通过索菲亚旅游信息中心安排
+
+导游服务 无向导讲解，宾客可自行游览、自由参观。
+
+3、
+照片画廊
+在Google地图上查看位置
+改为
+在Google地图上查看更多照片
+
+4、我们网站是
+russianmonumentsofia.com
 检查一遍看下是否有错误
 
 丰富下页面内容现在的内容还是太薄的了
@@ -20,6 +42,19 @@ The Russian monument in Sofia
 
 Sofia Center, blvd. "Makedonia" 51, 1606 Sofia, 保加利亚
 M8R6+W5 索非亚 保加利亚
+
+
+国家 / 地区 *：保加利亚（Bulgaria）
+地址行 1*：blvd. "Makedonia" 51，The Russian monument in Sofia
+地址行 2：Sofia Center（无内容可留白）
+城市 *：Sofia（索菲亚市）
+省 / 自治区 / 直辖市 *：索菲亚市（索菲亚直辖市）
+邮政编码 *：1606
+
+
+
+这个单景点买.com域名推荐
+
 https://maps.app.goo.gl/ttYioBqpBgQfTTFy8
 
 

@@ -15,7 +15,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://russian-monument-sofia.com';
+  const baseUrl = 'https://russianmonumentsofia.com';
 
   const bgUrl = `${baseUrl}/bg`;
   const enUrl = `${baseUrl}/en`;

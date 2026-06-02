@@ -101,8 +101,6 @@
     "googleRatingValue": "4.4 (7,207)",
     "address": "Address",
     "addressValue": "pl. \"Ruski pametnik\", blvd. \"Makedonia\" 51, 1606 Sofia, Bulgaria",
-    "telephone": "Contact Phone",
-    "telephoneValue": "+359 2 937 1111 (Sofia City Hall)",
     "accessibility": "Accessibility",
     "accessibilityValue": "Partially accessible",
     "plusCode": "Plus Code",
@@ -126,7 +124,7 @@
     "parking": "Parking",
     "parkingPrice": "Street parking available nearby (paid zones)",
     "guided": "Guided Tours",
-    "guidedPrice": "Available through Sofia Tourist Information Center"
+    "guidedPrice": "No guided tours provided. Guests are welcome to explore and visit freely on their own."
   },
   "transport": {
     "title": "How to Get Here",
@@ -168,7 +166,7 @@
       "Sculptural reliefs detail",
       "The monument and cityscape"
     ],
-    "viewAll": "View on Google Maps",
+    "viewAll": "View more photos on Google Maps",
     "showAll": "View All Photos",
     "showLess": "Show Less"
   },

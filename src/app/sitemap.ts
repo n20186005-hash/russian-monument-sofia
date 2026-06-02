@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next';
 import { routing } from '@/i18n/routing';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://russian-monument-sofia.com';
+  const baseUrl = 'https://russianmonumentsofia.com';
   
   const entries: MetadataRoute.Sitemap = [];
 
